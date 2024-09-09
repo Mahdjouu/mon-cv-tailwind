@@ -1,9 +1,9 @@
   
 
-#Mahdjouba BOUZOUINA
+# Mahdjouba BOUZOUINA
 ===================
 
-##Développeuse Full-stack
+## Développeuse Full-stack
 -----------------------
 
 mahdjouba.bouzouina@gmail.com
@@ -14,12 +14,12 @@ Montpellier, France
 
 Née le 02/11/1999
 
-##Présentation
+## Présentation
 ------------
 
 Forte de 3 ans d'expérience, je suis une développeuse web passionnée par la création d'expériences digitales uniques. Maintenir et améliorer les sites web, c'est comme affiner une œuvre d'art au fil du temps.
 
-##Diplômes et Formations
+## Diplômes et Formations
 ----------------------
 
 ### Licence en informatique - Développeur Full Stack
@@ -30,7 +30,7 @@ Sept. 2017 - Sept. 2021 | Université Toulouse III - Paul Sabatier, Toulouse
 *   Préparation à l'insertion dans le monde professionnel dès l'obtention de la licence
 *   Algorithmique, Bases de données, Projet Web, Intelligence Artificielle, Génie Logiciel, Développement Android, Complexité
 
-##Expériences professionnelles
+## Expériences professionnelles
 ----------------------------
 
 ### Développeuse Full-stack junior
@@ -55,12 +55,12 @@ Drupal, PHP, Sass, Jquery
 *   Optimisation des performances des sites
 *   Intégration des maquettes de l'équipe UI/UX design
 
-##Références
+## Références
 ----------
 
 Me contacter
 
-##Atouts
+## Atouts
 ------
 
 ### Adaptabilité
@@ -75,7 +75,7 @@ Expérience en travail d'équipe, communication efficace et coordination pour at
 
 Analyse rapide des problèmes techniques et solutions efficaces, maîtrise des outils de débogage et de ticketing.
 
-##Compétences
+## Compétences
 -----------
 
 ### Algorithmique
@@ -98,7 +98,7 @@ Diagnostiquer les incidents et les anomalies, et en assurer la correction
 
 Organiser un projet, ou partie de projet, en mode agile
 
-##Languages de programmation
+## Languages de programmation
 --------------------------
 
 ### Expérimentée professionnellement en
@@ -109,7 +109,7 @@ HTML, CSS, Javascript, Jquery, PHP, Symfony, Laravel, MySQL, Vue.js, Bootstrap, 
 
 Java, Java EE, Spring Boot, Python
 
-##Langues
+## Langues
 -------
 
 ### Anglais
